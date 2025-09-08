@@ -1,11 +1,17 @@
 # Adidas Sales Dashboard - Tableau
 
-This project analyzes Adidas sales performance using Tableau, including:
-- Total Sales: $899.9M
-- Profit: $332.1M
-- Units Sold: 2.5M
-- Sales Method: Online (37.9%), In-store (27.8%), Outlet (34.3%)
+##  Overview
+This project is an **interactive sales dashboard** built using **Tableau**, designed to analyze Adidas performance across different regions, sales channels, and product categories.  
+The dashboard provides a clear view of **sales, profit, margin, units sold**, and highlights key business insights.
 
+---
+
+##  Objectives
+- Track overall **sales performance** across different states and retailers.  
+- Compare **sales methods** (In-store, Online, Outlet).  
+- Identify **top-performing states** and retailers.  
+- Analyze **product category performance** (Men’s, Women’s, Apparel, Footwear, etc.).  
+- Understand **daily profit trends**.
 ## Files
 - `Adidas.twbx` → Tableau dashboard
 - `data.csv` → Sample dataset
